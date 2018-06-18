@@ -37,4 +37,4 @@ build:
     - script:
         name: Heroku deploy
 	code: |
-		git push https://heroku:84bc7cd8-af46-4ddf-b580-836052c5b654@git.heroku.com/nodejscalc1.git master
+	  git push https://heroku:84bc7cd8-af46-4ddf-b580-836052c5b654@git.heroku.com/nodejscalc1.git master
